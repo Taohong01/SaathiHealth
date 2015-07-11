@@ -1,0 +1,123 @@
+i= 0
+C= 100
+training is done
+Fitting Coef in case of L1:                                          0
+Overweight                       -1.634655
+HTN                               6.464659
+Tobacco                          -5.300272
+Low Ejection Fraction?            0.000000
+diabetes                          0.000000
+prediabetes                      -2.744315
+dyslipidemia                      0.339518
+low HDL                          -9.686095
+high  LDL                         2.964833
+high TG/HDL                      26.573492
+Average Age                     -18.315649
+Height (m)                       -5.603560
+Initial Weight (kg)               0.000000
+BMI                               6.105255
+Waist Circumference (m)-initial   8.336073
+initial systolic                  0.000000
+initial diastolic                -0.007826
+y                                -4.384098
+
+Model Evluation:
+C=100.00
+Sparsity with L1 penalty: 22.22%
+score with L1 penalty: 1.0000
+Sparsity with L2 penalty: 0.00%
+score with L2 penalty: 1.0000
+------------------------------------------------------------
+
+i= 1
+C= 10
+training is done
+Fitting Coef in case of L1:                                         0
+Overweight                       0.000000
+HTN                              1.703328
+Tobacco                         -0.521629
+Low Ejection Fraction?           0.000000
+diabetes                         0.000000
+prediabetes                     -0.753732
+dyslipidemia                     0.000000
+low HDL                         -1.499289
+high  LDL                        0.000000
+high TG/HDL                      7.105537
+Average Age                     -5.060353
+Height (m)                      -2.951761
+Initial Weight (kg)              0.000000
+BMI                              0.941568
+Waist Circumference (m)-initial  0.830302
+initial systolic                 0.000000
+initial diastolic                0.875904
+y                               -1.734580
+
+Model Evluation:
+C=10.00
+Sparsity with L1 penalty: 38.89%
+score with L1 penalty: 0.9524
+Sparsity with L2 penalty: 0.00%
+score with L2 penalty: 0.9048
+------------------------------------------------------------
+
+i= 2
+C= 1
+training is done
+Fitting Coef in case of L1:                                         0
+Overweight                       0.000000
+HTN                              0.000000
+Tobacco                          0.000000
+Low Ejection Fraction?           0.000000
+diabetes                         0.000000
+prediabetes                      0.000000
+dyslipidemia                     0.000000
+low HDL                          0.000000
+high  LDL                        0.000000
+high TG/HDL                      2.229868
+Average Age                      0.000000
+Height (m)                      -0.490782
+Initial Weight (kg)              0.000000
+BMI                              0.000000
+Waist Circumference (m)-initial  0.000000
+initial systolic                 0.000000
+initial diastolic                0.000000
+y                                0.000000
+
+Model Evluation:
+C=1.00
+Sparsity with L1 penalty: 88.89%
+score with L1 penalty: 0.8095
+Sparsity with L2 penalty: 0.00%
+score with L2 penalty: 0.9048
+------------------------------------------------------------
+
+i= 3
+C= 0.01
+training is done
+Fitting Coef in case of L1:                                  0
+Overweight                       0
+HTN                              0
+Tobacco                          0
+Low Ejection Fraction?           0
+diabetes                         0
+prediabetes                      0
+dyslipidemia                     0
+low HDL                          0
+high  LDL                        0
+high TG/HDL                      0
+Average Age                      0
+Height (m)                       0
+Initial Weight (kg)              0
+BMI                              0
+Waist Circumference (m)-initial  0
+initial systolic                 0
+initial diastolic                0
+y                                0
+
+Model Evluation:
+C=0.01
+Sparsity with L1 penalty: 100.00%
+score with L1 penalty: 0.4286
+Sparsity with L2 penalty: 0.00%
+score with L2 penalty: 0.5714
+------------------------------------------------------------
