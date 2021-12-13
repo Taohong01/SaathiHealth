@@ -45,5 +45,6 @@ Once the code is running, you will see an image pop up as shown below:
 We can also add bullets to the document, such as,
 * this is the item one
 * this is the itme 2, and so on and so forth. 
+
 It looks very cool, huh?
 
