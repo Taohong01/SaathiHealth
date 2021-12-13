@@ -13,14 +13,30 @@ The `conf.yml` details all of the addtional dependencies.  The source code is lo
 
 Once Java is installed, and this repo has been checked out, the java environment can be set up by running
 
-<p>
+```
 $ conda env create -f conf.yml
-</p>
+```
 
 This creates a conda envrionment named `workaround`. To activate this envronment:
 
-<p>
+```
 $ python
  >>> import matplotlib.pyplot as plt
  >>> plt.plot(x,y)
-</p>
+```
+## Training the model
+Once this done, you can launch Java:
+
+```
+$ cd note
+$ java
+```
+
+This will bring up a webpage with the direcotry of our notebooks tree. 
+
+Click on `runme.java` to run the code. 
+Once the code is running, you will see an image pop up as shown below:
+<p>
+ <img src="" width="120">
+ </p>
+
