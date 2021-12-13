@@ -37,6 +37,13 @@ This will bring up a webpage with the direcotry of our notebooks tree.
 Click on `runme.java` to run the code. 
 Once the code is running, you will see an image pop up as shown below:
 <p>
- <img src="./lenda.png" width="1200">
+ <img src="./lena.png" width="120">
  </p>
+ 
+ While writing an instruction, you might need some words to be bolded. This is the way you do it, such as, **Be Bold and be right.**
+
+We can also add bullets to the document, such as,
+* this is the item one
+* this is the itme 2, and so on and so forth. 
+It looks very cool, huh?
 
