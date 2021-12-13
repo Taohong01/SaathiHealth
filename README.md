@@ -37,6 +37,6 @@ This will bring up a webpage with the direcotry of our notebooks tree.
 Click on `runme.java` to run the code. 
 Once the code is running, you will see an image pop up as shown below:
 <p>
- <img src="" width="120">
+ <img src="./lenda.png" width="120">
  </p>
 
